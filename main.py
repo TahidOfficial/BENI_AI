@@ -1,6 +1,6 @@
 from brain import reply
 
-print("💙 BENI AI Started")
+print("BENI AI Started")
 print("Type 'bye' to exit.\n")
 
 while True:
