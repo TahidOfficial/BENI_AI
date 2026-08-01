@@ -6,10 +6,20 @@
 - Date
 - Calculator
 
-## v0.2
-- Open YouTube
+## Version 0.2.0
 
-## v0.3
-- Open Google
-- Open Notepad
-- Open Calculator
+### Added
+- Voice input using Whisper
+- Voice output using Edge TTS
+- Memory system (memory.json)
+- Automatic welcome message
+- Open Google command
+- Open YouTube command
+- Open Notepad command
+- Open Calculator command
+- Remember and recall feature
+
+### Improved
+- Better project structure
+- Faster voice recognition
+- Cleaner main.py

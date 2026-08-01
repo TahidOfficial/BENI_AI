@@ -4,17 +4,20 @@ BENI AI is my personal AI assistant made with Python.
 
 ## Features
 
-- 👋 Greeting
-- 🧠 Basic conversation
-- 📅 Date
-- ⏰ Time
-- 🧮 Calculator
-- 💙 Personalized for Oni
+- 🎤 Voice Input (Whisper)
+- 🗣️ Voice Output (Edge TTS)
+- 🧠 Memory System
+- 🌐 Open Google
+- ▶️ Open YouTube
+- 📝 Open Notepad
+- 🧮 Open Calculator
+- 💾 Remember User Information
+- 👋 Welcome Back Message
 
 ## Run
 
 ```bash
-python main.py
+py -3.12 main.py
 ```
 
 ## Author
