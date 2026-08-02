@@ -6,20 +6,30 @@
 - Date
 - Calculator
 
-## Version 0.2.0
+## v2.0
 
 ### Added
-- Voice input using Whisper
-- Voice output using Edge TTS
-- Memory system (memory.json)
-- Automatic welcome message
-- Open Google command
-- Open YouTube command
-- Open Notepad command
-- Open Calculator command
-- Remember and recall feature
+
+- Voice Mode
+- Text Mode
+- Voice + Text Mode
+- Hindi Commands
+- English Commands
+- Hinglish Support
+- Memory System
+- Google Open
+- YouTube Open
+- Notepad Open
+- Calculator Open
+- Natural Voice (Edge TTS)
+- Whisper Speech Recognition
 
 ### Improved
-- Better project structure
-- Faster voice recognition
-- Cleaner main.py
+
+- Faster Brain Logic
+- Better Voice Quality
+- Cleaner Code Structure
+
+### Compatibility
+
+- Python 3.12 Supported ✅
