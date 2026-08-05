@@ -58,11 +58,10 @@ def reply(text):
     elif "youtube" in text:
         open_youtube()
         return "YouTube khol raha hoon."
-
     # Notepad
     elif "notepad" in text:
         open_notepad()
-        return "Notepad khol raha hoon."
+        return "Notepad khol raha hooon."
 
     # Calculator App
     elif "calculator" in text or "calc" in text:

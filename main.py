@@ -2,6 +2,7 @@ from brain import reply
 from voice import speak
 from listener import listen
 from memory import load_memory
+from apps import open_app
 
 print("=" * 35)
 print("        🤖 BENI AI")
@@ -51,6 +52,17 @@ while True:
     else:
         print("Invalid Choice!")
         break
+    app = open_app(user)
+
+    if app:
+        print("BENI:", app)
+        speak(app)
+
+
+        if user.lower() == "bye":
+            break
+
+        continue
 
     answer = reply(user)
 
